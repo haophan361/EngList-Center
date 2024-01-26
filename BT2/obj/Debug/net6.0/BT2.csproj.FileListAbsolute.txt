@@ -1,0 +1,14 @@
+E:\Code\C#\BT2\bin\Debug\net6.0\BT2.exe
+E:\Code\C#\BT2\bin\Debug\net6.0\BT2.deps.json
+E:\Code\C#\BT2\bin\Debug\net6.0\BT2.runtimeconfig.json
+E:\Code\C#\BT2\bin\Debug\net6.0\BT2.dll
+E:\Code\C#\BT2\bin\Debug\net6.0\BT2.pdb
+E:\Code\C#\BT2\obj\Debug\net6.0\BT2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C#\BT2\obj\Debug\net6.0\BT2.AssemblyInfoInputs.cache
+E:\Code\C#\BT2\obj\Debug\net6.0\BT2.AssemblyInfo.cs
+E:\Code\C#\BT2\obj\Debug\net6.0\BT2.csproj.CoreCompileInputs.cache
+E:\Code\C#\BT2\obj\Debug\net6.0\BT2.dll
+E:\Code\C#\BT2\obj\Debug\net6.0\refint\BT2.dll
+E:\Code\C#\BT2\obj\Debug\net6.0\BT2.pdb
+E:\Code\C#\BT2\obj\Debug\net6.0\BT2.genruntimeconfig.cache
+E:\Code\C#\BT2\obj\Debug\net6.0\ref\BT2.dll

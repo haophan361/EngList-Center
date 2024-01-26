@@ -1,0 +1,14 @@
+E:\Code\C#\CheckBoxList\bin\Debug\net6.0\CheckBoxList.exe
+E:\Code\C#\CheckBoxList\bin\Debug\net6.0\CheckBoxList.deps.json
+E:\Code\C#\CheckBoxList\bin\Debug\net6.0\CheckBoxList.runtimeconfig.json
+E:\Code\C#\CheckBoxList\bin\Debug\net6.0\CheckBoxList.dll
+E:\Code\C#\CheckBoxList\bin\Debug\net6.0\CheckBoxList.pdb
+E:\Code\C#\CheckBoxList\obj\Debug\net6.0\CheckBoxList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C#\CheckBoxList\obj\Debug\net6.0\CheckBoxList.AssemblyInfoInputs.cache
+E:\Code\C#\CheckBoxList\obj\Debug\net6.0\CheckBoxList.AssemblyInfo.cs
+E:\Code\C#\CheckBoxList\obj\Debug\net6.0\CheckBoxList.csproj.CoreCompileInputs.cache
+E:\Code\C#\CheckBoxList\obj\Debug\net6.0\CheckBoxList.dll
+E:\Code\C#\CheckBoxList\obj\Debug\net6.0\refint\CheckBoxList.dll
+E:\Code\C#\CheckBoxList\obj\Debug\net6.0\CheckBoxList.pdb
+E:\Code\C#\CheckBoxList\obj\Debug\net6.0\CheckBoxList.genruntimeconfig.cache
+E:\Code\C#\CheckBoxList\obj\Debug\net6.0\ref\CheckBoxList.dll

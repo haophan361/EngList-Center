@@ -1,0 +1,14 @@
+E:\Code\C#\BanVeMayBay\bin\Debug\net6.0\BanVeMayBay.exe
+E:\Code\C#\BanVeMayBay\bin\Debug\net6.0\BanVeMayBay.deps.json
+E:\Code\C#\BanVeMayBay\bin\Debug\net6.0\BanVeMayBay.runtimeconfig.json
+E:\Code\C#\BanVeMayBay\bin\Debug\net6.0\BanVeMayBay.dll
+E:\Code\C#\BanVeMayBay\bin\Debug\net6.0\BanVeMayBay.pdb
+E:\Code\C#\BanVeMayBay\obj\Debug\net6.0\BanVeMayBay.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C#\BanVeMayBay\obj\Debug\net6.0\BanVeMayBay.AssemblyInfoInputs.cache
+E:\Code\C#\BanVeMayBay\obj\Debug\net6.0\BanVeMayBay.AssemblyInfo.cs
+E:\Code\C#\BanVeMayBay\obj\Debug\net6.0\BanVeMayBay.csproj.CoreCompileInputs.cache
+E:\Code\C#\BanVeMayBay\obj\Debug\net6.0\BanVeMayBay.dll
+E:\Code\C#\BanVeMayBay\obj\Debug\net6.0\refint\BanVeMayBay.dll
+E:\Code\C#\BanVeMayBay\obj\Debug\net6.0\BanVeMayBay.pdb
+E:\Code\C#\BanVeMayBay\obj\Debug\net6.0\BanVeMayBay.genruntimeconfig.cache
+E:\Code\C#\BanVeMayBay\obj\Debug\net6.0\ref\BanVeMayBay.dll

@@ -1,0 +1,7 @@
+E:\Code\C#\LinQ\bin\Debug\LinQ.exe.config
+E:\Code\C#\LinQ\bin\Debug\LinQ.exe
+E:\Code\C#\LinQ\bin\Debug\LinQ.pdb
+E:\Code\C#\LinQ\obj\Debug\LinQ.csproj.AssemblyReference.cache
+E:\Code\C#\LinQ\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+E:\Code\C#\LinQ\obj\Debug\LinQ.exe
+E:\Code\C#\LinQ\obj\Debug\LinQ.pdb

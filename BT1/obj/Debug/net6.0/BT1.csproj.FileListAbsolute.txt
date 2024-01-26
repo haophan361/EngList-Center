@@ -1,0 +1,14 @@
+E:\Code\C#\BT1\bin\Debug\net6.0\BT1.exe
+E:\Code\C#\BT1\bin\Debug\net6.0\BT1.deps.json
+E:\Code\C#\BT1\bin\Debug\net6.0\BT1.runtimeconfig.json
+E:\Code\C#\BT1\bin\Debug\net6.0\BT1.dll
+E:\Code\C#\BT1\bin\Debug\net6.0\BT1.pdb
+E:\Code\C#\BT1\obj\Debug\net6.0\BT1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C#\BT1\obj\Debug\net6.0\BT1.AssemblyInfoInputs.cache
+E:\Code\C#\BT1\obj\Debug\net6.0\BT1.AssemblyInfo.cs
+E:\Code\C#\BT1\obj\Debug\net6.0\BT1.csproj.CoreCompileInputs.cache
+E:\Code\C#\BT1\obj\Debug\net6.0\BT1.dll
+E:\Code\C#\BT1\obj\Debug\net6.0\refint\BT1.dll
+E:\Code\C#\BT1\obj\Debug\net6.0\BT1.pdb
+E:\Code\C#\BT1\obj\Debug\net6.0\BT1.genruntimeconfig.cache
+E:\Code\C#\BT1\obj\Debug\net6.0\ref\BT1.dll
