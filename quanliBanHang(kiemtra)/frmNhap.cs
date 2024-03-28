@@ -136,7 +136,7 @@ namespace quanliBanHang_kiemtra_
             this.Close();
             conn.Close();
         }
-        //Hello
+        //Hello hhghgh
         private void txtcost_TextChanged(object sender, EventArgs e)
         {
 
