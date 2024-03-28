@@ -1,0 +1,11 @@
+E:\Code\C#\quanliBanHang(kiemtra)\bin\Debug\quanliBanHang(kiemtra).exe.config
+E:\Code\C#\quanliBanHang(kiemtra)\bin\Debug\quanliBanHang(kiemtra).exe
+E:\Code\C#\quanliBanHang(kiemtra)\bin\Debug\quanliBanHang(kiemtra).pdb
+E:\Code\C#\quanliBanHang(kiemtra)\obj\Debug\quanliBanHang(kiemtra).csproj.AssemblyReference.cache
+E:\Code\C#\quanliBanHang(kiemtra)\obj\Debug\quanliBanHang_kiemtra_.frmDonHang.resources
+E:\Code\C#\quanliBanHang(kiemtra)\obj\Debug\quanliBanHang_kiemtra_.Properties.Resources.resources
+E:\Code\C#\quanliBanHang(kiemtra)\obj\Debug\quanliBanHang(kiemtra).csproj.GenerateResource.cache
+E:\Code\C#\quanliBanHang(kiemtra)\obj\Debug\quanliBanHang(kiemtra).csproj.CoreCompileInputs.cache
+E:\Code\C#\quanliBanHang(kiemtra)\obj\Debug\quanliBanHang(kiemtra).exe
+E:\Code\C#\quanliBanHang(kiemtra)\obj\Debug\quanliBanHang(kiemtra).pdb
+E:\Code\C#\quanliBanHang(kiemtra)\obj\Debug\quanliBanHang_kiemtra_.frmNhap.resources
